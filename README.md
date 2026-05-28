@@ -4,11 +4,11 @@ Game Developer · Game Designer · Frontend Developer · UI/UX Designer
 
 ---
 
-Game Designer on *Knock of the Coffin Lead*.  
+Game Designer on **[Knock on the Coffin Lid](https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/)**.  
 Won the student game jam **Ctrl + Shift + Create** (Moscow, 2025) as team lead.  
-Built small games for Android and Yandex Games.  
+Built small games for Android and **[Yandex Games](https://yandex.ru/games)**.  
 Occasionally work on web projects.  
-Graduating with honors from Moscow Polytech — *Software for the Gaming Computer Industry*, 2026.
+Graduating with honors from **[Moscow Polytech](https://mospolytech.ru)** — Software for the Gaming Computer Industry, 2026.
 
 ---
 
