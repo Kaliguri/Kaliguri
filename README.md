@@ -4,6 +4,13 @@ Game Developer · Game Designer · Frontend Developer · UI/UX Designer
 
 ---
 
+Lead Game Designer on [Knock of the Coffin](https://github.com/Kaliguri).  
+Won a student game jam among Moscow universities in 2025 as team lead.  
+Built small games for Android and Yandex Games.  
+Occasionally work on web projects.
+
+---
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
