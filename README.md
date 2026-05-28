@@ -6,10 +6,13 @@ Game Developer · Game Designer · Frontend Developer · UI/UX Designer
 
 ## About Me
 
+Hi! I'm a Unity developer and game designer focused on co-op, roguelike, and autobattler experiences. I also have practical skills in UI/UX and web development.
+
+Selected highlights:
+
 Game Designer on **[Knock on the Coffin Lid](https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/)**.  
 Won the student game jam **Ctrl + Shift + Create** (Moscow, 2025) as team lead.  
 Built small games for Android and **[Yandex Games](https://yandex.ru/games)**.  
-Occasionally work on web projects.  
 Graduating with honors from **[Moscow Polytech](https://mospolytech.ru)** — Software for the Gaming Computer Industry, 2026.
 
 ---
