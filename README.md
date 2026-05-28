@@ -4,15 +4,24 @@ Game Developer · Game Designer · Frontend Developer · UI/UX Designer
 
 ---
 
-Lead Game Designer on [Knock of the Coffin](https://github.com/Kaliguri).  
-Won a student game jam among Moscow universities in 2025 as team lead.  
+Game Designer on *Knock of the Coffin Lead*.  
+Won the student game jam **Ctrl + Shift + Create** (Moscow, 2025) as team lead.  
 Built small games for Android and Yandex Games.  
-Occasionally work on web projects.
+Occasionally work on web projects.  
+Graduating with honors from Moscow Polytech — *Software for the Gaming Computer Industry*, 2026.
 
 ---
 
+**Game Dev**
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Photon Fusion](https://img.shields.io/badge/Photon_Fusion-004480?style=flat-square&logo=photon&logoColor=white)
+![NGO](https://img.shields.io/badge/Netcode_for_GO-000000?style=flat-square&logo=unity&logoColor=white)
+![Steamworks](https://img.shields.io/badge/Steamworks_API-1b2838?style=flat-square&logo=steam&logoColor=white)
+
+**Web**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
