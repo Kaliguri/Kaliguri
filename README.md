@@ -14,6 +14,8 @@ Graduating with honors from **[Moscow Polytech](https://mospolytech.ru)** — So
 
 ---
 
+## Tech Stack
+
 **Game Dev**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
