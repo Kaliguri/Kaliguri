@@ -26,4 +26,7 @@ Graduating with honors from Moscow Polytech — *Software for the Gaming Compute
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Yandex Games](https://img.shields.io/badge/Yandex_Games-CC0000?style=flat-square&logo=yandex&logoColor=white)
+![Yandex Metrica](https://img.shields.io/badge/Yandex_Metrica-CC0000?style=flat-square&logo=yandex&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
