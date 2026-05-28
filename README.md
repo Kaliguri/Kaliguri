@@ -4,6 +4,8 @@ Game Developer · Game Designer · Frontend Developer · UI/UX Designer
 
 ---
 
+## About Me
+
 Game Designer on **[Knock on the Coffin Lid](https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/)**.  
 Won the student game jam **Ctrl + Shift + Create** (Moscow, 2025) as team lead.  
 Built small games for Android and **[Yandex Games](https://yandex.ru/games)**.  
@@ -34,6 +36,8 @@ Graduating with honors from **[Moscow Polytech](https://mospolytech.ru)** — So
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
+
+## Social
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kaliguri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kailgurika@gmail.com)
