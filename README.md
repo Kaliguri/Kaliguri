@@ -10,20 +10,20 @@
 
 Game Developer · Game Designer · Unity · Web
 
+Moscow · open to remote & relocation · open to game dev and web opportunities
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kaliguri)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kailgurika@gmail.com)
+
 ---
 
 ## English
 
 <a href="#top"><b>[↑ Back to top]</b></a>
 
-Moscow · open to remote & relocation · open to game dev and web opportunities
+I'm a game and web developer who approaches projects architecture-first. My focus is gamedev — building multiplayer games and shaping how they play — while web development is a strong second discipline I work in regularly.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kaliguri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kailgurika@gmail.com)
-
-I'm a game and web developer with a solid technical foundation and a habit of looking at a project from an architecture-first angle. My core is gamedev — building multiplayer games and thinking through how they're designed — but I'm equally at home on the web.
-
-I've worked hands-on across programming, game design, UI/UX, sound, and graphics, so I understand what each part of a team needs — and I like building tools that make everyone's job easier, not just my own. Before writing code I argue my decisions with clear reasoning and a detailed analysis of what a feature actually requires.
+My experience spans programming, game design, UI/UX, sound, and graphics, which lets me understand the needs of every role on a team and build tooling that serves all of them, not just engineering. I prefer to justify decisions with clear reasoning and a thorough analysis of a feature's requirements before implementation.
 
 ### What I bring
 
@@ -75,11 +75,9 @@ I've worked hands-on across programming, game design, UI/UX, sound, and graphics
 
 <a href="#top"><b>[↑ Наверх]</b></a>
 
-Москва · готов к удалёнке и релокации · рассматриваю предложения
+Я разработчик игр и веба, который подходит к проектам с архитектурной точки зрения. Основное направление — геймдев: разработка мультиплеерных игр и проработка того, как они играются; веб-разработка — сильное второе направление, в котором я работаю регулярно.
 
-Я разработчик игр и веба с хорошей технической базой и привычкой смотреть на проект с архитектурной точки зрения. Мой центр тяжести — геймдев: делаю мультиплеерные игры и продумываю их дизайн, — но в вебе чувствую себя так же уверенно.
-
-Я работал руками в программировании, геймдизайне, UI/UX, звуке и графике, поэтому понимаю, что нужно каждой части команды, и люблю делать инструменты, которые упрощают работу всем, а не только мне. Прежде чем писать код, я аргументирую решения и провожу детальный анализ того, что фиче на самом деле нужно.
+Мой опыт охватывает программирование, геймдизайн, UI/UX, звук и графику, что позволяет понимать потребности каждой роли в команде и создавать инструменты, удобные не только программистам. Решения предпочитаю обосновывать аргументами и детальным анализом требований ещё до реализации.
 
 ### Что я приношу
 
