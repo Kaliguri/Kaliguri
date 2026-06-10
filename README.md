@@ -21,24 +21,23 @@ Moscow · open to remote & relocation · open to game dev and web opportunities
 
 <a href="#top"><b>[↑ Back to top]</b></a>
 
-I'm a game and web developer who approaches projects architecture-first. My focus is gamedev — building multiplayer games and shaping how they play — while web development is a strong second discipline I work in regularly.
+A game and web developer with an architecture-first mindset. My main focus is multiplayer games on Unity and how they play; web (React / Next.js / TypeScript) is a strong second discipline.
 
-My experience spans programming, game design, UI/UX, sound, and graphics, which lets me understand the needs of every role on a team and build tooling that serves all of them, not just engineering. I prefer to justify decisions with clear reasoning and a thorough analysis of a feature's requirements before implementation.
+I cover a project across disciplines — code, game design, UI/UX, sound, graphics. That lets me design systems that work for the whole team, not just engineers, and back decisions with a requirements analysis before any code is written.
 
 ### What I bring
 
-- **Multiplayer** — host-authoritative co-op built on both Netcode for GameObjects and Photon Fusion
-- **Architecture-first thinking** — I design the system before the code: DI, event-driven flow, clean structure (VContainer + EventBus in Unity, Feature-Sliced Design on the web)
-- **Game design depth** — systems, combat and balance grounded in real design thinking; Game Designer on a title shipped to Steam
-- **Cross-disciplinary** — comfortable across code, UI/UX, sound and graphics, so I can build tools that fit every member of a team
-- **Reasoned & analytical** — I back my point of view with arguments and map out what a project needs before building it
-- **Full reach** — from Unity gameplay systems to production web apps (React / Next.js / TypeScript)
+- **Multiplayer** — host-authoritative co-op on Netcode for GameObjects and Photon Fusion
+- **Architecture before code** — DI, event-driven flow, clean structure (VContainer + EventBus, Feature-Sliced Design)
+- **Game design** — systems, combat and balance; Game Designer on a title shipped to Steam
+- **Cross-disciplinary** — code, UI/UX, sound and graphics
+- **Reach** — from Unity gameplay systems to production web apps
 
 ### Highlights
 
 - **Game Designer** on **[Knock on the Coffin Lid](https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/)** — shipped on Steam
-- Won the student game jam **Ctrl + Shift + Create** (Moscow, 2025) as **team lead**
-- Shipped small games for **Android** and **[Yandex Games](https://yandex.ru/games)**
+- Won the student game jam **Ctrl + Shift + Create 2.0** (Moscow, spring 2025) as **team lead**
+- Shipped small games for **[Android](https://play.google.com)** and **[Yandex Games](https://yandex.ru/games)**
 - Graduating **with honors** from **[Moscow Polytech](https://mospolytech.ru)** — Software for the Gaming Computer Industry, 2026
 
 ### Tech stack — Game Dev
@@ -75,22 +74,21 @@ My experience spans programming, game design, UI/UX, sound, and graphics, which 
 
 <a href="#top"><b>[↑ Наверх]</b></a>
 
-Я разработчик игр и веба, который подходит к проектам с архитектурной точки зрения. Основное направление — геймдев: разработка мультиплеерных игр и проработка того, как они играются; веб-разработка — сильное второе направление, в котором я работаю регулярно.
+Разработчик игр и веба с архитектурным мышлением. Основной фокус — мультиплеерные игры на Unity и их геймплей; веб (React / Next.js / TypeScript) — сильное второе направление.
 
-Мой опыт охватывает программирование, геймдизайн, UI/UX, звук и графику, что позволяет понимать потребности каждой роли в команде и создавать инструменты, удобные не только программистам. Решения предпочитаю обосновывать аргументами и детальным анализом требований ещё до реализации.
+Закрываю проект на стыке дисциплин: код, геймдизайн, UI/UX, звук, графика. Поэтому проектирую системы, удобные всей команде, а не только инженерам, и обосновываю решения анализом требований до начала кода.
 
 ### Что я приношу
 
 - **Мультиплеер** — host-authoritative кооп на Netcode for GameObjects и Photon Fusion
-- **Архитектурное мышление** — сначала проектирую систему, потом код: DI, событийный поток, чистая структура (VContainer + EventBus в Unity, Feature-Sliced Design в вебе)
-- **Глубина геймдизайна** — системы, бой и баланс на основе настоящего дизайн-мышления; геймдизайнер вышедшей в Steam игры
-- **Мультидисциплинарность** — свободно в коде, UI/UX, звуке и графике, поэтому делаю инструменты, удобные каждому в команде
-- **Аргументация и анализ** — отстаиваю точку зрения доводами и заранее разбираю, что нужно проекту
-- **Широкий охват** — от геймплейных систем в Unity до продакшн-приложений в вебе (React / Next.js / TypeScript)
+- **Архитектура вперёд кода** — DI, событийный поток, чистая структура (VContainer + EventBus, Feature-Sliced Design)
+- **Геймдизайн** — системы, бой и баланс; геймдизайнер игры, вышедшей в Steam
+- **Мультидисциплинарность** — код, UI/UX, звук и графика
+- **Широкий охват** — от геймплейных систем в Unity до продакшн-приложений в вебе
 
 ### Достижения
 
 - **Геймдизайнер** в **[Knock on the Coffin Lid](https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/)** — игра вышла в Steam
-- Победа на студенческом джеме **Ctrl + Shift + Create** (Москва, 2025) в роли **тимлида**
-- Небольшие игры на **Android** и **[Yandex Games](https://yandex.ru/games)**
+- Победа на студенческом джеме **Ctrl + Shift + Create 2.0** (Москва, весна 2025) в роли **тимлида**
+- Небольшие игры на **[Android](https://play.google.com)** и **[Yandex Games](https://yandex.ru/games)**
 - Заканчиваю с отличием **[Московский Политех](https://mospolytech.ru)** — ПО игровой компьютерной индустрии, 2026
