@@ -21,9 +21,7 @@ Moscow · open to remote & relocation · open to game dev and web opportunities
 
 <a href="#top"><b>[↑ Back to top]</b></a>
 
-Game developer (Unity Developer, C#) and web engineer with an architecture-first mindset. My main focus is multiplayer games on Unity: mechanics design, gameplay implementation, networking, and technical architecture. On the web side — React, Next.js, and TypeScript.
-
-Beyond engineering, I work as a Game Designer: core gameplay design, balance, game loops, progression, and player experience. This lets me design solutions not only from a code perspective, but also in terms of how the game feels, what the project needs, and how easy it'll be to build on later.
+Game developer (Unity Developer, C#) and web engineer with an architecture-first mindset. My main focus is multiplayer games on Unity, from mechanics design to networking architecture. I combine an engineering approach with game design (Game Designer) and web development experience.
 
 ### Core strengths
 
@@ -74,9 +72,7 @@ Beyond engineering, I work as a Game Designer: core gameplay design, balance, ga
 
 <a href="#top"><b>[↑ Наверх]</b></a>
 
-Разработчик игр (Unity Developer C#) и веб-приложений с архитектурным мышлением. Основной фокус — мультиплеерные игры на Unity: проектирование механик, реализация геймплея, сетевые системы и техническая архитектура. Веб-направление — React, Next.js и TypeScript.
-
-Также имею навыки в сфере геймдизайна (Game Designer): core gameplay design, баланс, работа с игровыми циклами, прогрессией и пользовательским опытом. Это помогает мне проектировать решения не только с позиции кода, но и с точки зрения ощущений игрока, требований проекта и удобства дальнейшей разработки.
+Разработчик игр (Unity Developer, C#) и веб-приложений с архитектурным мышлением. Основной фокус — мультиплеерные игры на Unity, от проектирования механик до сетевой архитектуры. Совмещаю инженерный подход с геймдизайном (Game Designer) и опытом веб-разработки.
 
 ### Ключевые сильные стороны
 
