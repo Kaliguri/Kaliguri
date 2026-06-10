@@ -1,23 +1,27 @@
 <a id="top"></a>
 
 <p>
-  <a href="#english"><b>English</b></a>
+  <a href="#about-me-english"><b>About me (English)</b></a>
   &nbsp;·&nbsp;
-  <a href="#русский"><b>Русский</b></a>
+  <a href="#обо-мне-русский"><b>Обо мне (Русский)</b></a>
 </p>
 
 # Max Gaida
 
-Game Developer · Game Designer · Unity · Web
+Unity Developer (C#) · Game Designer · Frontend Developer  
+*Unity-разработчик (C#) · Геймдизайнер · Frontend-разработчик*
 
-Moscow · open to remote & relocation · open to game dev and web opportunities
+Open to offers · remote & relocation · Moscow  
+*Рассматриваю предложения на позиции Unity Developer (C#), Game Designer, Frontend Developer · удалёнка и релокация · Москва*
+
+**Contacts**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kaliguri)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kailgurika@gmail.com)
 
 ---
 
-## English
+## About me (English)
 
 <a href="#top"><b>[↑ Back to top]</b></a>
 
@@ -68,7 +72,7 @@ Game developer (Unity Developer, C#) and web engineer with an architecture-first
 
 ---
 
-## Русский
+## Обо мне (Русский)
 
 <a href="#top"><b>[↑ Наверх]</b></a>
 
