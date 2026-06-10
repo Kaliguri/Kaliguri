@@ -21,9 +21,9 @@ Moscow · open to remote & relocation · open to game dev and web opportunities
 
 <a href="#top"><b>[↑ Back to top]</b></a>
 
-A game and web developer with an architecture-first mindset. My main focus is multiplayer games on Unity and how they play; web (React / Next.js / TypeScript) is a strong second discipline.
+Game developer (Unity Developer, C#) and web engineer with an architecture-first mindset. My main focus is multiplayer games on Unity: mechanics design, gameplay implementation, networking, and technical architecture. On the web side — React, Next.js, and TypeScript.
 
-I cover a project across disciplines — code, game design, UI/UX, sound, graphics. That lets me design systems that work for the whole team, not just engineers, and back decisions with a requirements analysis before any code is written.
+Beyond engineering, I work as a Game Designer: core gameplay design, balance, game loops, progression, and player experience. This lets me design solutions not only from a code perspective, but also in terms of how the game feels, what the project needs, and how easy it'll be to build on later.
 
 ### What I bring
 
@@ -74,9 +74,9 @@ I cover a project across disciplines — code, game design, UI/UX, sound, graphi
 
 <a href="#top"><b>[↑ Наверх]</b></a>
 
-Разработчик игр и веба с архитектурным мышлением. Основной фокус — мультиплеерные игры на Unity и их геймплей; веб (React / Next.js / TypeScript) — сильное второе направление.
+Разработчик игр (Unity Developer C#) и веб-приложений с архитектурным мышлением. Основной фокус — мультиплеерные игры на Unity: проектирование механик, реализация геймплея, сетевые системы и техническая архитектура. Веб-направление — React, Next.js и TypeScript.
 
-Закрываю проект на стыке дисциплин: код, геймдизайн, UI/UX, звук, графика. Поэтому проектирую системы, удобные всей команде, а не только инженерам, и обосновываю решения анализом требований до начала кода.
+Также имею навыки в сфере геймдизайна (Game Designer): core gameplay design, баланс, работа с игровыми циклами, прогрессией и пользовательским опытом. Это помогает мне проектировать решения не только с позиции кода, но и с точки зрения ощущений игрока, требований проекта и удобства дальнейшей разработки.
 
 ### Что я приношу
 
