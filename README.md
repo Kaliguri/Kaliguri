@@ -25,13 +25,13 @@ Game developer (Unity Developer, C#) and web engineer with an architecture-first
 
 Beyond engineering, I work as a Game Designer: core gameplay design, balance, game loops, progression, and player experience. This lets me design solutions not only from a code perspective, but also in terms of how the game feels, what the project needs, and how easy it'll be to build on later.
 
-### What I bring
+### Core strengths
 
-- **Multiplayer** — host-authoritative co-op on Netcode for GameObjects and Photon Fusion
-- **Architecture before code** — DI, event-driven flow, clean structure (VContainer + EventBus, Feature-Sliced Design)
-- **Game design** — systems, combat and balance; Game Designer on a title shipped to Steam
-- **Cross-disciplinary** — code, UI/UX, sound and graphics
-- **Reach** — from Unity gameplay systems to production web apps
+- **Unity development** — I design and build gameplay systems with a focus on readable architecture, extensibility, and long-term maintainability. I think not only about making a mechanic work today, but about how it will evolve together with the project.
+- **Multiplayer** — I understand the specifics of host-authoritative co-op: state synchronization, splitting responsibility between client and host, network constraints, and how architectural decisions shape the player experience. Worked with Netcode for GameObjects and Photon Fusion.
+- **Game design** — I can look at a game not only as a developer, but as a game designer: core gameplay, combat systems, balance, progression, and game loops. Worked as a Game Designer on a title shipped to Steam.
+- **Web development** — I build modern web apps with React, Next.js, and TypeScript, with an eye for project structure, user flows, and production requirements.
+- **Product reach** — I combine a technical view with an understanding of game design, UI/UX, visuals, sound, and player experience. This lets me evaluate decisions not in isolation, but from the perspective of the whole game, the team, and the product's future.
 
 ### Highlights
 
@@ -78,13 +78,13 @@ Beyond engineering, I work as a Game Designer: core gameplay design, balance, ga
 
 Также имею навыки в сфере геймдизайна (Game Designer): core gameplay design, баланс, работа с игровыми циклами, прогрессией и пользовательским опытом. Это помогает мне проектировать решения не только с позиции кода, но и с точки зрения ощущений игрока, требований проекта и удобства дальнейшей разработки.
 
-### Что я приношу
+### Ключевые сильные стороны
 
-- **Мультиплеер** — host-authoritative кооп на Netcode for GameObjects и Photon Fusion
-- **Архитектура вперёд кода** — DI, событийный поток, чистая структура (VContainer + EventBus, Feature-Sliced Design)
-- **Геймдизайн** — системы, бой и баланс; геймдизайнер игры, вышедшей в Steam
-- **Мультидисциплинарность** — код, UI/UX, звук и графика
-- **Широкий охват** — от геймплейных систем в Unity до продакшн-приложений в вебе
+- **Unity-разработка** — проектирую и реализую геймплейные системы с упором на читаемую архитектуру, расширяемость и удобство дальнейшей поддержки. Думаю не только о том, чтобы механика работала сейчас, но и о том, как она будет развиваться вместе с проектом.
+- **Мультиплеер** — понимаю специфику host-authoritative кооператива: синхронизацию состояния, разделение ответственности между клиентом и хостом, сетевые ограничения и влияние архитектурных решений на игровой опыт. Работал с Netcode for GameObjects и Photon Fusion.
+- **Геймдизайн** — умею смотреть на игру не только как разработчик, но и как геймдизайнер: прорабатывать core gameplay, боевые системы, баланс, прогрессию и игровые циклы. Работал геймдизайнером над игрой, вышедшей в Steam.
+- **Веб-разработка** — создаю современные веб-приложения на React, Next.js и TypeScript, с пониманием структуры проекта, пользовательских сценариев и требований к production-разработке.
+- **Продуктовый охват** — объединяю технический взгляд с пониманием геймдизайна, UI/UX, визуала, звука и ощущений игрока. Благодаря этому могу оценивать решения не изолированно, а с позиции всей игры, команды и дальнейшего развития продукта.
 
 ### Достижения
 
