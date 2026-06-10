@@ -17,6 +17,34 @@ Graduating with honors from **[Moscow Polytech](https://mospolytech.ru)** — So
 
 ---
 
+## Featured Projects
+
+### 🎮 Games
+
+**[Guildmaster — Autobattler](https://github.com/Kaliguri/Guildmaster-Autobattler)** — Co-op real-time-with-pause autobattler roguelike. Unity 6 with host-authoritative NGO netcode, VContainer DI and an EventBus architecture.  
+![Unity](https://img.shields.io/badge/Unity_6-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![NGO](https://img.shields.io/badge/Netcode_for_GO-000000?style=flat-square&logo=unity&logoColor=white)
+
+**[METALHEAD](https://github.com/Kaliguri/METALHEAD)** — Top-down metal action roguelike built for the **Ctrl + Shift + Create 2.0** game jam. Playable on [itch.io](https://xgaida.itch.io/metalhead).  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)
+
+**[TYPE-FASTER-MP](https://github.com/Kaliguri/TYPE-FASTER-MP)** — Two-player typing-duel action prototype with Photon Fusion co-op and card drafts.  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Photon Fusion](https://img.shields.io/badge/Photon_Fusion-004480?style=flat-square&logo=photon&logoColor=white)
+
+### 🌐 Web
+
+**[Posleslovie](https://github.com/Kaliguri/Posleslovie)** — Production landing site for a natural-cosmetics brand running on $0 hosting: Next.js static export on GitHub Pages, Cloudflare Workers, Sveltia CMS and AmoCRM checkout. Live at **[posleslovie.online](https://posleslovie.online)**.  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**[E'Magios Core](https://github.com/Kaliguri/E-Magios-Core-Site)** — Companion web app for an original tabletop RPG: character editor, world compendium and global dice roller. Built with React and Feature-Sliced Design. [Live demo](https://kaliguri.github.io/E-Magios-Core-Site/).  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+### 🧩 Unity Assets
+
+**[Bloodlines — Dark UI](https://github.com/Kaliguri/Bloodlines-Dark-UI)** — Dark-fantasy gothic UI asset pack for Unity 6 (uGUI/TextMeshPro) with ready-to-drop prefabs, red/gray themes and helper scripts. On [itch.io](https://xgaida.itch.io/bloodlines-ui).  
+![Unity](https://img.shields.io/badge/Unity_6-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Shaders](https://img.shields.io/badge/ShaderLab-FF6C37?style=flat-square&logo=unity&logoColor=white)
+
+---
+
 ## Tech Stack
 
 **Game Dev**
