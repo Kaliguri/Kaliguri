@@ -8,11 +8,11 @@
 
 # Max Gaida
 
-Unity Developer (C#) · Game Designer · Frontend Developer  
-*Unity-разработчик (C#) · Геймдизайнер · Frontend-разработчик*
+Unity Developer (C#) · Game Designer · UI/UX Designer · Frontend Developer  
+*Unity-разработчик (C#) · Геймдизайнер · UI/UX-дизайнер · Frontend-разработчик*
 
 Open to offers · remote & relocation · Moscow  
-*Рассматриваю предложения на позиции Unity Developer (C#), Game Designer, Frontend Developer · удалёнка и релокация · Москва*
+*Рассматриваю предложения на позиции Unity Developer (C#), Game Designer, UI/UX Designer, Frontend Developer · удалёнка и релокация · Москва*
 
 **Contacts**
 
@@ -25,19 +25,21 @@ Open to offers · remote & relocation · Moscow
 
 <a href="#top"><b>[↑ Back to top]</b></a>
 
-Game developer (Unity Developer, C#) and web engineer with an architecture-first mindset. My main focus is multiplayer games on Unity, from mechanics design to networking architecture. I combine an engineering approach with game design (Game Designer) and web development experience.
+Game developer (Unity Developer, C#) and web engineer with an architecture-first mindset. My main focus is multiplayer games on Unity, from mechanics design to networking architecture. I combine an engineering approach with game design (Game Designer), UI/UX design, and web development experience.
 
 ### Core strengths
 
 - **Unity development** — I design and build gameplay systems with a focus on readable architecture, extensibility, and long-term maintainability. I think not only about making a mechanic work today, but about how it will evolve together with the project.
 - **Multiplayer** — I understand the specifics of host-authoritative co-op: state synchronization, splitting responsibility between client and host, network constraints, and how architectural decisions shape the player experience. Worked with Netcode for GameObjects and Photon Fusion.
 - **Game design** — I can look at a game not only as a developer, but as a game designer: core gameplay, combat systems, balance, progression, and game loops. Worked as a Game Designer on a title shipped to Steam.
+- **UI/UX design** — I design game interfaces end to end: from layout, flows, and interaction states to reusable UI kits. Authored and published a UI pack for Unity, balancing visual style with developer-friendly structure and clear usability.
 - **Web development** — I build modern web apps with React, Next.js, and TypeScript, with an eye for project structure, user flows, and production requirements.
 - **Product reach** — I combine a technical view with an understanding of game design, UI/UX, visuals, sound, and player experience. This lets me evaluate decisions not in isolation, but from the perspective of the whole game, the team, and the product's future.
 
 ### Highlights
 
 - **Game Designer** on **[Knock on the Coffin Lid](https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/)** — shipped on Steam
+- Authored and published the **Bloodlines UI** pack — available on the **[Unity Asset Store](https://assetstore.unity.com/packages/slug/328721)** and **[itch.io](https://xgaida.itch.io/bloodlines-ui)**
 - Won the student game jam **Ctrl + Shift + Create 2.0** (Moscow, spring 2025) as **team lead**
 - Shipped small games for **[Android](https://play.google.com)** and **[Yandex Games](https://yandex.ru/games)**
 - Graduating **with honors** from **[Moscow Polytech](https://mospolytech.ru)** — Software for the Gaming Computer Industry, 2026
@@ -76,19 +78,21 @@ Game developer (Unity Developer, C#) and web engineer with an architecture-first
 
 <a href="#top"><b>[↑ Наверх]</b></a>
 
-Разработчик игр (Unity Developer, C#) и веб-приложений с архитектурным мышлением. Основной фокус — мультиплеерные игры на Unity, от проектирования механик до сетевой архитектуры. Совмещаю инженерный подход с геймдизайном (Game Designer) и опытом веб-разработки.
+Разработчик игр (Unity Developer, C#) и веб-приложений с архитектурным мышлением. Основной фокус — мультиплеерные игры на Unity, от проектирования механик до сетевой архитектуры. Совмещаю инженерный подход с геймдизайном (Game Designer), UI/UX-дизайном и опытом веб-разработки.
 
 ### Ключевые сильные стороны
 
 - **Unity-разработка** — проектирую и реализую геймплейные системы с упором на читаемую архитектуру, расширяемость и удобство дальнейшей поддержки. Думаю не только о том, чтобы механика работала сейчас, но и о том, как она будет развиваться вместе с проектом.
 - **Мультиплеер** — понимаю специфику host-authoritative кооператива: синхронизацию состояния, разделение ответственности между клиентом и хостом, сетевые ограничения и влияние архитектурных решений на игровой опыт. Работал с Netcode for GameObjects и Photon Fusion.
 - **Геймдизайн** — умею смотреть на игру не только как разработчик, но и как геймдизайнер: прорабатывать core gameplay, боевые системы, баланс, прогрессию и игровые циклы. Работал геймдизайнером над игрой, вышедшей в Steam.
+- **UI/UX-дизайн** — проектирую игровые интерфейсы целиком: от макетов, пользовательских сценариев и состояний взаимодействия до переиспользуемых UI-китов. Разработал и опубликовал UI-пак для Unity, сочетая визуальный стиль с удобной для разработчика структурой и понятным UX.
 - **Веб-разработка** — создаю современные веб-приложения на React, Next.js и TypeScript, с пониманием структуры проекта, пользовательских сценариев и требований к production-разработке.
 - **Продуктовый охват** — объединяю технический взгляд с пониманием геймдизайна, UI/UX, визуала, звука и ощущений игрока. Благодаря этому могу оценивать решения не изолированно, а с позиции всей игры, команды и дальнейшего развития продукта.
 
 ### Достижения
 
 - **Геймдизайнер** в **[Knock on the Coffin Lid](https://store.steampowered.com/app/1232580/Knock_on_the_Coffin_Lid/)** — игра вышла в Steam
+- Разработал и опубликовал UI-пак **Bloodlines UI** — доступен в **[Unity Asset Store](https://assetstore.unity.com/packages/slug/328721)** и на **[itch.io](https://xgaida.itch.io/bloodlines-ui)**
 - Победа на студенческом джеме **Ctrl + Shift + Create 2.0** (Москва, весна 2025) в роли **тимлида**
 - Небольшие игры на **[Android](https://play.google.com)** и **[Yandex Games](https://yandex.ru/games)**
 - Заканчиваю с отличием **[Московский Политех](https://mospolytech.ru)** — ПО игровой компьютерной индустрии, 2026
