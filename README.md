@@ -8,11 +8,11 @@
 
 # Max Gaida
 
-Unity Developer (C#) · Game Designer · UI/UX Designer · Frontend Developer  
-*Unity-разработчик (C#) · Геймдизайнер · UI/UX-дизайнер · Frontend-разработчик*
+Unity Developer (C#) · Game Designer · Frontend Developer · UI/UX Designer  
+*Unity-разработчик (C#) · Геймдизайнер · Frontend-разработчик · UI/UX-дизайнер*
 
 Open to offers · remote & relocation · Moscow  
-*Рассматриваю предложения на позиции Unity Developer (C#), Game Designer, UI/UX Designer, Frontend Developer · удалёнка и релокация · Москва*
+*Рассматриваю предложения на позиции Unity Developer (C#), Game Designer · удалёнка и релокация · Москва*
 
 **Contacts**
 
